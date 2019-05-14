@@ -1,5 +1,7 @@
-# learningandtesting
+# Learning And Testing
 a repo for my practice specially for deep and machine learning 
+
+Normally the self made ipython are on google drive, this one is for version controlling and follow up.
 
 ## Colab Pytorch 
 https://github.com/omerbsezer/Fast-Pytorch
